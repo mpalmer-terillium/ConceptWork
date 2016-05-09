@@ -1,0 +1,5 @@
+.data/
+*.jws
+*.jpr
+*.class
+*.cdi
